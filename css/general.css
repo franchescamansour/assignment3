@@ -107,11 +107,8 @@ h2{
     font-family: "Futura";
     font-weight: lighter;
     font-size: 2rem;
-    border: .25rem solid black;
     color: black;
     background-color: white;
-    margin-top: -1rem;
-    padding: 1rem;
 }
 /*--------------------------*/
 
@@ -143,22 +140,27 @@ figure a:visited {
 
 /*-----------Products-----------*/
 .powder{
-    width:70%;
+    width:75%;
 }
 
 .eyeshadow{
-    width:70%;
+    width:75%;
     padding-bottom: -1rem;
 }
 
 .foundation{
-    width: 30%;
+    width: 35%;
     margin-left: 4rem;
 }
 
 .eyeliner{
-    width: 20%;
+    width: 25%;
     margin-left: 4.5rem;
+}
+
+.lipgloss{
+    width: 25%;
+    margin-left: 4rem;
 }
 
 
