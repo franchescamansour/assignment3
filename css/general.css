@@ -74,23 +74,77 @@ header{
     color: pink;
 }
 
-.selected{
-    background-color: pink;
-}
-
-/*------------*/
+/*--------------------------*/
 
 h1{
     margin: 3 0 0rem;
+    padding: 0.4rem;
     text-align: center;
-    font-family: "Arial Black","Arial Bold",Gadget,sans-serif;
-    padding: 0;
+    font-family: futura;
+    font-weight: 500;
     font-size: 1.6rem;
+    color: white;
+    background-color: #000;
 }
 
 h2{
     font-family: futura;
     font-weight: lighter;
+    font-size: 1.3rem;
     text-align: center;
+}
 
+/*----- Home Page Lip Image ----*/
+.lip{
+    margin-left: 2.2rem;
+}
+/*------------------------------*/
+
+
+/*-------Image Caption----------*/
+
+figure{
+    margin: 0 auto 1rem;
+    padding: 1.2rem;
+    width: 100%;   
+}
+
+figure a,
+figure a:link,
+figure a:visited {
+    font-size: 1rem;
+    font-family: "Arial Black","Arial Bold",Gadget,sans-serif;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+/*------------------------------*/
+
+footer{
+    margin:0;
+    padding: 1.5rem 5% 1.6rem;
+    background-color: #000;
+}
+
+.bottomnav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.bottomnav li{
+    display: inline;
+}
+
+.bottomnav a,
+.bottomnav a:link,
+.bottomnav a:visited {
+    color: #808284;
+    text-decoration: none;
+    font-size: 1rem;
+    font-family: futura;
+    font-weight: lighter;
+    line-height: 1.5rem;
+    display: inline block;
 }
