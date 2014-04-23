@@ -74,5 +74,23 @@ header{
     color: pink;
 }
 
+.selected{
+    background-color: pink;
+}
 
 /*------------*/
+
+h1{
+    margin: 3 0 0rem;
+    text-align: center;
+    font-family: "Arial Black","Arial Bold",Gadget,sans-serif;
+    padding: 0;
+    font-size: 1.6rem;
+}
+
+h2{
+    font-family: futura;
+    font-weight: lighter;
+    text-align: center;
+
+}
