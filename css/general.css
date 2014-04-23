@@ -26,7 +26,7 @@ body {
     padding: 0;
 }
 
-/*---HEADER---*/
+/*-------------HEADER-------------*/
 
 header{
     background-color: black;
@@ -38,9 +38,9 @@ header{
     float: left;
 }
 
-/*------------*/
+/*--------------------------------*/
 
-/*----NAV----*/
+/*-------------NAV----------------*/
 
 .topnav ul{
     margin: 0;
@@ -90,6 +90,7 @@ header{
 
 .aboutus{
     width: 100%;
+    border: 5px solid black;
 }
 /*--------------------------*/
 
@@ -128,9 +129,16 @@ h2{
     padding: .5rem;
     margin-top: -2rem;
 }
+
+.ourstory p{
+    font-family: "Futura";
+    background-color: white;
+    border: solid 2px black;
+    padding: 1rem;
+}
 /*--------------------------*/
 
-/*----Homepage lip smudge---*/
+/*----Homepage smudge img---*/
 .lip{
     margin-left: 2.2rem;
     width: 80%;
@@ -209,6 +217,7 @@ figure a:visited {
 }
 /*------------------------------*/
 
+/*----------Footer------------*/
 footer{
     margin:0;
     padding: 1.5rem 5% 1.6rem;
@@ -250,3 +259,4 @@ footer{
     line-height: 1.5rem;
     display: inline block;
 }
+/*------------------------------*/
