@@ -60,5 +60,19 @@ header{
     font-weight: lighter;
 }
 
+.topnav a, 
+.topnav a:link,
+.topnav a:visited {
+    display: inline-block;
+    margin: 0;
+    padding: 1.5rem 5%;
+    color: white;
+    text-decoration: none;
+}
+
+.topnav a:hover{
+    color: pink;
+}
+
 
 /*------------*/
