@@ -76,11 +76,20 @@ header{
 
 /*--------------------------*/
 
-/*--------Main Image--------*/
+/*---Home page image & About us banner---*/
 .BoldRed{
     width:100%;
     margin-top:-1rem;
     margin-bottom:-2rem;
+}
+
+.banner{
+    width: 100%;
+    margin-bottom: 3rem;
+}
+
+.aboutus{
+    width: 100%;
 }
 /*--------------------------*/
 
