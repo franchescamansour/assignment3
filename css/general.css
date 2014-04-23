@@ -143,13 +143,24 @@ figure a:visited {
 
 /*-----------Products-----------*/
 .powder{
-    width:80%;
+    width:70%;
 }
 
 .eyeshadow{
     width:70%;
     padding-bottom: -1rem;
 }
+
+.foundation{
+    width: 30%;
+    margin-left: 4rem;
+}
+
+.eyeliner{
+    width: 20%;
+    margin-left: 4.5rem;
+}
+
 
 
 
