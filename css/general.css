@@ -65,7 +65,7 @@ header{
 .topnav a:visited {
     display: inline-block;
     margin: 0;
-    padding: 1.5rem 5%;
+    padding: 1.5rem 4%;
     color: white;
     text-decoration: none;
 }
@@ -76,6 +76,15 @@ header{
 
 /*--------------------------*/
 
+/*--------Main Image--------*/
+.BoldRed{
+    width:100%;
+    margin-top:-1rem;
+    margin-bottom:-2rem;
+}
+/*--------------------------*/
+
+/*--------Headers-----------*/
 h1{
     margin: 3 0 0rem;
     padding: 0.4rem;
@@ -94,15 +103,27 @@ h2{
     text-align: center;
 }
 
-/*----- Home Page Lip Image ----*/
+.productheader{
+    font-family: "Futura";
+    font-weight: lighter;
+    font-size: 2rem;
+    border: .25rem solid black;
+    color: black;
+    background-color: white;
+    margin-top: -1rem;
+    padding: 1rem;
+}
+/*--------------------------*/
+
+/*----Homepage lip smudge---*/
 .lip{
     margin-left: 2.2rem;
+    width: 80%;
 }
 /*------------------------------*/
 
 
-/*-------Image Caption----------*/
-
+/*-------Home Page Image Caption----------*/
 figure{
     margin: 0 auto 1rem;
     padding: 1.2rem;
@@ -118,6 +139,22 @@ figure a:visited {
     text-decoration: none;
     text-align: center;
 }
+/*------------------------------*/
+
+/*-----------Products-----------*/
+.powder{
+    width:80%;
+}
+
+.eyeshadow{
+    width:70%;
+    padding-bottom: -1rem;
+}
+
+
+
+
+
 
 /*------------------------------*/
 
