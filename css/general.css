@@ -127,8 +127,22 @@ footer{
     background-color: #000;
 }
 
+.icons img{
+    width:20%;
+    height: auto;
+}
+
+.terms{
+    color: #808284;
+    text-align: center;
+    font-family: futura;
+    font-weight: lighter;
+    font-size: 0.6rem;
+}
+
 .bottomnav ul{
     list-style-type: none;
+    text-align: center;
     margin: 0;
     padding: 0;
 }
