@@ -65,7 +65,7 @@ header{
 .topnav a:visited {
     display: inline-block;
     margin: 0;
-    padding: 1.5rem 4%;
+    padding: 1.5rem 3%;
     color: white;
     text-decoration: none;
 }
@@ -110,6 +110,15 @@ h2{
     color: black;
     background-color: white;
 }
+
+.producth2{
+    font-size: 1.7rem;
+    font-family: "Futura";
+    background-color: black;
+    color: white;
+    padding: .5rem;
+    margin-top: -2rem;
+}
 /*--------------------------*/
 
 /*----Homepage lip smudge---*/
@@ -141,34 +150,54 @@ figure a:visited {
 /*-----------Products-----------*/
 .powder{
     width:75%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 .eyeshadow{
     width:75%;
     padding-bottom: -1rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 .foundation{
     width: 35%;
     margin-left: 4rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 .eyeliner{
     width: 25%;
-    margin-left: 4.5rem;
+    margin-left: 5.2rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 .lipgloss{
     width: 25%;
-    margin-left: 4rem;
+    margin-left: 4.8rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
+.blush{
+    width: 83%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
 
+.mascara{
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
 
-
-
-
-
+.productsul ul{
+    font-size:1.2rem;
+    font-family: "Futura";
+    font-weight: lighter;
+}
 /*------------------------------*/
 
 footer{
